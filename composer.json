@@ -1,5 +1,5 @@
 {
-  "name": "quickbooks/payments-sdk",
+  "name": "waltersilvacruz/quickbooks-payments-sdk",
   "description": "The Official PHP SDK for QuickBooks Online Payments API",
   "type": "library",
   "keywords": ["api", "http", "rest", "quickbooks payments", "smallbusiness"],
